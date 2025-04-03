@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+body {
+  border: 1px solid black;
+  margin: 0 25% 0 25%;
+  height: 720px;
+  box-shadow: 4px 4px 4px lightslategray;
+}
